@@ -1,4 +1,4 @@
-# Note-Maker-App
+# Note-Maker-Website
 Note Maker  is build with HTML , CSS ,Javascript.This is useful to make notes easily. It is  responsive website.
 
 
